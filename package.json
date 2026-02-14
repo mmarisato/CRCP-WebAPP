@@ -1,0 +1,20 @@
+{
+  "name": "crcp-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mmarisato/CRCP-WebAPP#readme",
+  "bugs": {
+    "url": "https://github.com/mmarisato/CRCP-WebAPP/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmarisato/CRCP-WebAPP.git"
+  },
+  "license": "MIT",
+  "author": "Mari sato",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
